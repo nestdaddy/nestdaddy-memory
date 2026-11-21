@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.nestdaddy/memory",
+  "title": "NestDaddy Memory",
+  "description": "One memory for every AI you use: tell it once, and ChatGPT, Claude and any MCP app remember it.",
+  "websiteUrl": "https://nestdaddy.com/memory",
+  "icons": [
+    {
+      "src": "https://nestdaddy.com/static/android-chrome-512x512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://nestdaddy.com/static/android-chrome-192x192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://nestdaddy.com/memory/mcp"
+    }
+  ]
+}
