@@ -1,6 +1,6 @@
 # NestDaddy Memory
 
-**One memory for every AI you use.** Tell it once, and every AI app you connect remembers it tomorrow, on every device. Any model, any app or agent that supports MCP (Model Context Protocol): ChatGPT, Claude, Cursor, Claude Code, VS Code, Windsurf and the rest.
+**Start your AI's memory today. It gets smarter every day you wait.** One memory for every AI you use: tell it once, and every AI app you connect remembers it tomorrow, on every device. Any model, any app or agent that supports MCP (Model Context Protocol): ChatGPT, Claude, Cursor, Claude Code, VS Code, Windsurf and the rest.
 
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.nestdaddy%2Fmemory-0a7c4e)](https://registry.modelcontextprotocol.io/v0/servers?search=com.nestdaddy/memory)
 [![First month free](https://img.shields.io/badge/first%20month-free%2C%20no%20card-15181e)](https://nestdaddy.com/memory)
@@ -32,8 +32,9 @@ NestDaddy Memory is a memory that lives **outside** any single app. Every AI you
 | Works across devices | Per account | Laptop, phone, terminal, all the same memory |
 | Room | Small, fills up ("memory full") | Unlimited |
 | When a fact changes | Old and new often both stay | **The latest decision wins**: the old version is replaced |
-| Finds things by | Exact words | Meaning, in many languages |
+| Finds things by | Exact words | Meaning, in any language and mixes of languages |
 | Time | No timeline | "What did I decide last week?" works |
+| Past conversations | Stay inside that app | Every chat with every AI, found again from a vague question |
 | Yours | Locked to the vendor | See, change, export or delete anything |
 
 ## Connect it (about two minutes, no keys to copy)
@@ -80,8 +81,9 @@ Add a remote MCP server (Streamable HTTP) with the URL `https://nestdaddy.com/me
 AI apps only open a connector when told to. Add one line to your app's custom instructions (ChatGPT: Settings, Personalization, Custom instructions; Claude: your profile preferences; coding apps: the project or user rules):
 
 ```
-Before you answer, search my NestDaddy Memory for anything relevant. When I tell you a lasting fact,
-preference or decision, save it there; when a decision changes, update the old memory instead of adding a new one.
+My main memory is the NestDaddy Memory connector. On every message, first call its recall tool with what I said.
+When I tell you a lasting fact, preference or decision, save it there; when a decision changes, update the old
+memory instead of adding a new one. After each answer, log the turn with log_turn.
 ```
 
 ## What a normal week looks like
@@ -95,16 +97,19 @@ For developers: tell Claude Code your architecture decisions once, and Cursor to
 ## What your AI can do with it
 
 - **Save** lasting facts, preferences and decisions, one topic per memory.
-- **Search by meaning**, not just keywords, in English, Malay and many other languages.
+- **Recall on every message**: give it what the user said and get back only what clearly relates, from memories and past chats.
+- **Search by meaning**, not just keywords, in any language and mixes of languages.
 - **Update in place**: when a decision changes, the newest version replaces the old one, and the history is kept.
 - **Answer time questions**: "what did I decide about pricing last month?"
+- **Remember every conversation**: each chat is logged (passwords and keys removed), so "continue yesterday's work" or "not that one, the other one" finds the exact moment.
 - **Keep it tidy**: find duplicates, merge them, archive what is finished.
 
 ## Privacy
 
 - Your memory lives in its own separate file, reached only through your own sign-in, over encrypted connections.
 - Each connected app can be removed from your account page at any time.
-- You can export or delete everything yourself.
+- You can export or delete everything yourself, memories and conversations. Ask your AI to delete one chat at any time.
+- Your memory never expires: stop paying and it stays safe and read-only, waiting for you.
 - Your own AI writes the memories and our engine stores, finds and updates them, so there are no credits or tokens to pay per save.
 
 Full terms: https://nestdaddy.com/memory#faq

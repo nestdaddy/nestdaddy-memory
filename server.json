@@ -4,6 +4,11 @@
   "title": "NestDaddy Memory",
   "description": "One memory for every AI you use: tell it once, and ChatGPT, Claude and any MCP app remember it.",
   "websiteUrl": "https://nestdaddy.com/memory",
+  "repository": {
+    "url": "https://github.com/nestdaddy/nestdaddy-memory",
+    "source": "github",
+    "id": "1466926690"
+  },
   "icons": [
     {
       "src": "https://nestdaddy.com/static/android-chrome-512x512.png",
@@ -20,7 +25,7 @@
       ]
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
