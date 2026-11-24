@@ -1,6 +1,10 @@
 # NestDaddy Memory
 
-**Start your AI's memory today. It gets smarter every day you wait.** One memory for every AI you use: tell it once, and every AI app you connect remembers it tomorrow, on every device. Any model, any app or agent that supports MCP (Model Context Protocol): ChatGPT, Claude, Cursor, Claude Code, VS Code, Windsurf and the rest.
+**Start your AI's memory today. It gets smarter every day you wait.**
+
+If you want your AI projects to perform, you need memory. No memory, no momentum: every session starts from zero. NestDaddy Memory is one memory for every AI you use. Tell it once, and every AI you connect, today's and tomorrow's, already knows your projects, your decisions and how you like things done, on every device. Any app or agent that supports MCP (Model Context Protocol) can read and write it: ChatGPT, Claude, Cursor, Claude Code, VS Code, Windsurf and many more.
+
+**Try it free for a month. Love it? Stay. Don't? Just leave. No card, nothing to cancel.**
 
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.nestdaddy%2Fmemory-0a7c4e)](https://registry.modelcontextprotocol.io/v0/servers?search=com.nestdaddy/memory)
 [![First month free](https://img.shields.io/badge/first%20month-free%2C%20no%20card-15181e)](https://nestdaddy.com/memory)
@@ -23,6 +27,14 @@ AI is brilliant for an hour. Then you open a new chat, or switch to another app,
 - The built-in memory of each app fills up, and only that one app can read it.
 
 NestDaddy Memory is a memory that lives **outside** any single app. Every AI you connect reads and writes the same memory.
+
+## Built for developers
+
+- **Stop paying tokens to re-explain your own project.** Your AI looks up only what matters, by meaning, instead of you pasting context into every session.
+- **Your AI remembers the task. You just ship.** Say "finish yesterday's work" and it knows which work.
+- **Smarter models need a memory to show it.** Switch models and the memory comes with you, so the new one starts already knowing you.
+
+A field report from daily terminal work: [I work with an AI that remembers everything](https://nestdaddy.com/blog/i-work-with-an-ai-that-remembers).
 
 ## What makes it different
 
@@ -130,7 +142,7 @@ Full terms: https://nestdaddy.com/memory#faq
 ## More from NestDaddy
 
 - [NestDaddy MCP](https://nestdaddy.com/mcp): give your AI today's internet, with live web search, real-time breaking news and full page reading.
-- [Blog](https://nestdaddy.com/blog): [ChatGPT memory full?](https://nestdaddy.com/blog/chatgpt-memory-full) · [Move your ChatGPT memory to Claude](https://nestdaddy.com/blog/move-chatgpt-memory-to-claude) · [One memory for every AI](https://nestdaddy.com/blog/one-memory-for-every-ai)
+- [Blog](https://nestdaddy.com/blog): [I work with an AI that remembers everything](https://nestdaddy.com/blog/i-work-with-an-ai-that-remembers) · [ChatGPT memory full?](https://nestdaddy.com/blog/chatgpt-memory-full) · [Move your ChatGPT memory to Claude](https://nestdaddy.com/blog/move-chatgpt-memory-to-claude) · [One memory for every AI](https://nestdaddy.com/blog/one-memory-for-every-ai)
 
 ## Support
 
