@@ -4,10 +4,10 @@
 
 If you want your AI projects to perform, you need memory. No memory, no momentum: every session starts from zero. NestDaddy Memory is one memory for every AI you use. Tell it once, and every AI you connect, today's and tomorrow's, already knows your projects, your decisions and how you like things done, on every device. Any app or agent that supports MCP (Model Context Protocol) can read and write it: ChatGPT, Claude, Cursor, Claude Code, VS Code, Windsurf and many more.
 
-**Try it free for a month. Love it? Stay. Don't? Just leave. No card, nothing to cancel.**
+**Try it free for 7 days. Love it? Stay. Don't? Cancel before day 7 and pay nothing.**
 
 [![Official MCP Registry](https://img.shields.io/badge/MCP%20Registry-com.nestdaddy%2Fmemory-0a7c4e)](https://registry.modelcontextprotocol.io/v0/servers?search=com.nestdaddy/memory)
-[![First month free](https://img.shields.io/badge/first%20month-free%2C%20no%20card-15181e)](https://nestdaddy.com/memory)
+[![7 days free](https://img.shields.io/badge/7%20days-free-15181e)](https://nestdaddy.com/memory)
 
 ```
 https://nestdaddy.com/memory/mcp
@@ -128,9 +128,9 @@ Full terms: https://nestdaddy.com/memory#faq
 
 ## Price
 
-- **First month free, no card.** It starts when you connect your first AI app.
-- Then **USD 17 a month**, or USD 170 a year (pay for 10 months, get 12). Launch price, kept for as long as you stay.
-- Nothing is charged automatically when the free month ends: you subscribe yourself if you want to keep it.
+- **7 days free.** You add a card when you start; cancel before day 7 and you pay nothing.
+- Then **USD 9.99 a month**, or USD 99.90 a year (pay for 10 months, get 12). Launch price, kept for as long as you stay subscribed.
+- We email you 3 days before the first charge, with a one-click cancel link.
 
 **Start here:** https://nestdaddy.com/memory
 
